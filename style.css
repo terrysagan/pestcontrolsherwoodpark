@@ -823,28 +823,5 @@ p {
 }
 
 
-/*zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz*/
-
-.half-half-image-text{
-  padding: 70px 0px;
-  h1{
-    color: #800000;
-  }
-  .contentz{
-    height: 100%;
-    display:flex;
-    align-items: center;
-    padding: 35px 0px;
-    p{
-      font-size: 22px;
-    }
-  }
-  .img{
-    min-height: 320px;
-    height: 100%;
-    border-radius: 10px;
-  }
-}
-
 	
 
