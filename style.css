@@ -810,12 +810,12 @@ p {
 
 
 @media(max-width:840px) {
-  .container {
+  .containerx {
     flex-direction: column;
     max-width: 460px;
   }
   
-  .item {
+  .itemx {
     flex-direction: row;
     width: 100%;
   }
